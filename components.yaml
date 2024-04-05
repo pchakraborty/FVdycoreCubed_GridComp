@@ -1,0 +1,5 @@
+fvdycore:
+  local: ./@fvdycore
+  remote: git@github.com:GEOS-ESM/GFDL_atmos_cubed_sphere.git
+  tag: geos/v2.8.1
+  develop: geos/develop
